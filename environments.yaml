@@ -46,4 +46,3 @@ dependencies:
   - zeromq=4.3.1
   - zlib=1.2.11
 prefix: /root/anaconda3/envs/Project6
-
